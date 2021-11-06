@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xcom_header header_version="1.0" sw_version="1.1.0.0" name="resampled">
+  <captures>
+    <capture name="resampled" center_frequency="514000000" sample_rate="9142857" span="9142857" acq_scale_factor="2.2425e-13"/>
+  </captures>
+  <data_files>
+    <data channel_count="1" data_encoding="int16" iq_interleave="true" little_endian="true" name="resampled.xdat" protected="false" sample_resolution="16" samples="4571430" signed_type="true"/>
+  </data_files>
+</xcom_header>

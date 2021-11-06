@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xcom_header header_version="1.0" sw_version="1.1.0.0" name="shortDVB">
+	<captures>
+		<capture name="shortDVB" center_frequency="514000000" acq_scale_factor="2.2425E-013" span="12500000" sample_rate="15625000" start_capture="2019:149:13:32:19.863103000" />
+	</captures>
+	<data_files>
+		<data channel_count="1" name="shortDVB.xdat" sample_resolution="16" iq_interleave="true" little_endian="true" protected="false" signed_type="true" data_encoding="int16" samples="000007812501" />
+	</data_files>
+	<marker_files>
+		<marker name="shortDVB.xmrk" format="X" count="0000000000" />
+	</marker_files>
+</xcom_header>
